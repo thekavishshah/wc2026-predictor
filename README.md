@@ -2,7 +2,7 @@
 
 An ML pipeline that predicts the winner of the 2026 FIFA World Cup using real FIFA ranking data, XGBoost classification, and Monte Carlo tournament simulation.
 
-![Predictions](https://github.com/user-attachments/assets/placeholder-predictions.png)
+![Predictions](https://github.com/user-attachments/assets/placeholder-predictions.png|https://github.com/user-attachments/assets/6bdd6192-560e-46bc-a8cb-1cf673caf070)
 
 ## Results
 
